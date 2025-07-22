@@ -26,6 +26,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1172   | Substituição em vetor I | Iniciante | [🔗 Acessar](problemas/iniciantes/1172/) |
 | 1132   | Múltiplos de 13         | Iniciante | [🔗 Acessar](problemas/iniciantes/1132/) |
 | 1154   | Idades                  | Iniciante | [🔗 Acessar](problemas/iniciantes/1154/) |
+| 1145   | Sequência Lógica 2      | Iniciante | [🔗 Acessar](problemas/iniciantes/1145/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
