@@ -21,6 +21,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | ------ | ------------------- | --------- | ---------------------------------------- |
 | 1001   | Extremamente Básico | Iniciante | [🔗 Acessar](problemas/iniciantes/1001/) |
 | 1042   | Sort Simples        | Iniciante | [🔗 Acessar](problemas/iniciantes/1042/) |
+| 1046   | Tempo de jogo       | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
