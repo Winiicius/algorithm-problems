@@ -27,6 +27,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1132   | Múltiplos de 13         | Iniciante | [🔗 Acessar](problemas/iniciantes/1132/) |
 | 1154   | Idades                  | Iniciante | [🔗 Acessar](problemas/iniciantes/1154/) |
 | 1145   | Sequência Lógica 2      | Iniciante | [🔗 Acessar](problemas/iniciantes/1145/) |
+| 1789   | A corrida das lesmas    | Iniciante | [🔗 Acessar](problemas/iniciantes/1789/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
