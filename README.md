@@ -22,7 +22,8 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1001   | Extremamente Básico     | Iniciante | [🔗 Acessar](problemas/iniciantes/1001/) |
 | 1042   | Sort Simples            | Iniciante | [🔗 Acessar](problemas/iniciantes/1042/) |
 | 1046   | Tempo de jogo           | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
-| 1046   | Crescente e Decrescente | Iniciante | [🔗 Acessar](problemas/iniciantes/1113/) |
+| 1113   | Crescente e Decrescente | Iniciante | [🔗 Acessar](problemas/iniciantes/1113/) |
+| 1172   | Substituição em vetor I | Iniciante | [🔗 Acessar](problemas/iniciantes/1172/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
