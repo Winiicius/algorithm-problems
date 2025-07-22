@@ -24,6 +24,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1046   | Tempo de jogo           | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
 | 1113   | Crescente e Decrescente | Iniciante | [🔗 Acessar](problemas/iniciantes/1113/) |
 | 1172   | Substituição em vetor I | Iniciante | [🔗 Acessar](problemas/iniciantes/1172/) |
+| 1132   | Múltiplos de 13         | Iniciante | [🔗 Acessar](problemas/iniciantes/1132/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
