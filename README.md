@@ -17,11 +17,12 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ## ✅ Lista de Problemas Resolvidos
 
-| Número | Título              | Categoria | Diretório                                |
-| ------ | ------------------- | --------- | ---------------------------------------- |
-| 1001   | Extremamente Básico | Iniciante | [🔗 Acessar](problemas/iniciantes/1001/) |
-| 1042   | Sort Simples        | Iniciante | [🔗 Acessar](problemas/iniciantes/1042/) |
-| 1046   | Tempo de jogo       | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
+| Número | Título                  | Categoria | Diretório                                |
+| ------ | ----------------------- | --------- | ---------------------------------------- |
+| 1001   | Extremamente Básico     | Iniciante | [🔗 Acessar](problemas/iniciantes/1001/) |
+| 1042   | Sort Simples            | Iniciante | [🔗 Acessar](problemas/iniciantes/1042/) |
+| 1046   | Tempo de jogo           | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
+| 1046   | Crescente e Decrescente | Iniciante | [🔗 Acessar](problemas/iniciantes/1113/) |
 
 <!-- Adicione mais linhas conforme for resolvendo -->
 
