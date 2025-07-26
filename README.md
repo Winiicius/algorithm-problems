@@ -29,8 +29,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1145   | Sequência Lógica 2       | Iniciante | [🔗 Acessar](problemas/iniciantes/1145/) |
 | 1789   | A corrida das lesmas     | Iniciante | [🔗 Acessar](problemas/iniciantes/1789/) |
 | 1218   | Getline Three - Calcados | Iniciante | [🔗 Acessar](problemas/iniciantes/1218/) |
-
-<!-- Adicione mais linhas conforme for resolvendo -->
+| 1238   | Combinador               | Strings   | [🔗 Acessar](problemas/strings/1238/)    |
 
 ---
 
