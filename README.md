@@ -18,7 +18,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 ## ✅ Lista de Problemas Resolvidos
 
 | Número | Título                   | Categoria | Diretório                                |
-| ------ | ------------------------ | --------- | ---------------------------------------- |
+|--------|--------------------------| --------- |------------------------------------------|
 | 1001   | Extremamente Básico      | Iniciante | [🔗 Acessar](problemas/iniciantes/1001/) |
 | 1042   | Sort Simples             | Iniciante | [🔗 Acessar](problemas/iniciantes/1042/) |
 | 1046   | Tempo de jogo            | Iniciante | [🔗 Acessar](problemas/iniciantes/1046/) |
@@ -30,6 +30,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1789   | A corrida das lesmas     | Iniciante | [🔗 Acessar](problemas/iniciantes/1789/) |
 | 1218   | Getline Three - Calcados | Iniciante | [🔗 Acessar](problemas/iniciantes/1218/) |
 | 1238   | Combinador               | Strings   | [🔗 Acessar](problemas/strings/1238/)    |
+| 1239   | Atalhos Bloggo           | Strings   | [🔗 Acessar](problemas/strings/1239/)    |
 
 ---
 
