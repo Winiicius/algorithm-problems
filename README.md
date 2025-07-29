@@ -23,14 +23,15 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1042   | Sort Simples             | Iniciante                | [🔗 Acessar](problemas/iniciantes/1042/)             |
 | 1046   | Tempo de jogo            | Iniciante                | [🔗 Acessar](problemas/iniciantes/1046/)             |
 | 1113   | Crescente e Decrescente  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1113/)             |
-| 1172   | Substituição em vetor I  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
 | 1132   | Múltiplos de 13          | Iniciante                | [🔗 Acessar](problemas/iniciantes/1132/)             |
-| 1154   | Idades                   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1154/)             |
 | 1145   | Sequência Lógica 2       | Iniciante                | [🔗 Acessar](problemas/iniciantes/1145/)             |
-| 1789   | A corrida das lesmas     | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
+| 1154   | Idades                   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1154/)             |
 | 1218   | Getline Three - Calcados | Iniciante                | [🔗 Acessar](problemas/iniciantes/1218/)             |
+| 1172   | Substituição em vetor I  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
+| 1789   | A corrida das lesmas     | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
 | 1238   | Combinador               | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
 | 1239   | Atalhos Bloggo           | Strings                  | [🔗 Acessar](problemas/strings/1239/)                |
+| 1272   | Mensagem Oculta          | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
 | 1239   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
 
 ---
