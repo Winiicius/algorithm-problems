@@ -30,6 +30,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1789   | A corrida das lesmas     | Iniciante | [🔗 Acessar](problemas/iniciantes/1789/) |
 | 1218   | Getline Three - Calcados | Iniciante | [🔗 Acessar](problemas/iniciantes/1218/) |
 | 1238   | Combinador               | Strings   | [🔗 Acessar](problemas/strings/1238/)    |
+| 1255   | Frequentrador de Letras  | Strings   | [🔗 Acessar](problemas/strings/1255/)    |
 
 ---
 
