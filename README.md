@@ -36,6 +36,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1235   | De dentro pra fora       | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
 | 1238   | Combinador               | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
 | 1239   | Atalhos Bloggo           | Strings                  | [🔗 Acessar](problemas/strings/1239/)                |
+| 1239   | Cifra de césar           | Strings                  | [🔗 Acessar](problemas/strings/1253/)                |
 | 1255   | Frequentrador de Letras  | Strings                  | [🔗 Acessar](problemas/strings/1255/)                |
 | 1272   | Mensagem Oculta          | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
 | 1251   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
