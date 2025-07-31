@@ -15,7 +15,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ---
 
-## ✅ Total problemas resolvidos: **17**
+## ✅ Total problemas resolvidos: **18**
 
 ## Lista de Problemas Resolvidos
 
@@ -32,6 +32,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1172   | Substituição em vetor I  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
 | 12176  | Fibonacci em vetor       | Iniciante                | [🔗 Acessar](problemas/iniciantes/1176/)             |
 | 1789   | A corrida das lesmas     | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
+| 1024   | Criptografia             | strings                  | [🔗 Acessar](problemas/strings/1024/)                |
 | 1235   | De dentro pra fora       | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
 | 1238   | Combinador               | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
 | 1239   | Atalhos Bloggo           | Strings                  | [🔗 Acessar](problemas/strings/1239/)                |
