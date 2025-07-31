@@ -10,12 +10,14 @@ A proposta é manter uma rotina de estudo, fortalecer a lógica de programação
 
 Os problemas estão organizados em diretórios por categoria (como `iniciantes`, `estruturas`, `strings`, etc.), e cada problema possui seu próprio subdiretório contendo:
 
-- O código-fonte da solução (`Main.py` ou equivalente)
+- O código-fonte da solução (`main.py` ou equivalente)
 - Um `.md` com a descrição do problema
 
 ---
 
-## ✅ Lista de Problemas Resolvidos
+## ✅ Total problemas resolvidos: **17**
+
+## Lista de Problemas Resolvidos
 
 | Número | Título                   | Categoria                | Diretório                                            |
 | ------ | ------------------------ | ------------------------ | ---------------------------------------------------- |
@@ -28,6 +30,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1154   | Idades                   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1154/)             |
 | 1218   | Getline Three - Calcados | Iniciante                | [🔗 Acessar](problemas/iniciantes/1218/)             |
 | 1172   | Substituição em vetor I  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
+| 12176  | Fibonacci em vetor       | Iniciante                | [🔗 Acessar](problemas/iniciantes/1176/)             |
 | 1789   | A corrida das lesmas     | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
 | 1235   | De dentro pra fora       | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
 | 1238   | Combinador               | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
