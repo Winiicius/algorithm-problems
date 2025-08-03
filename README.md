@@ -30,7 +30,6 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1154   | Idades                   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1154/)             |
 | 1218   | Getline Three - Calcados | Iniciante                | [🔗 Acessar](problemas/iniciantes/1218/)             |
 | 1172   | Substituição em vetor I  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
-| 12176  | Fibonacci em vetor       | Iniciante                | [🔗 Acessar](problemas/iniciantes/1176/)             |
 | 1789   | A corrida das lesmas     | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
 | 1024   | Criptografia             | strings                  | [🔗 Acessar](problemas/strings/1024/)                |
 | 1235   | De dentro pra fora       | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
@@ -39,6 +38,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1239   | Cifra de césar           | Strings                  | [🔗 Acessar](problemas/strings/1253/)                |
 | 1255   | Frequentrador de Letras  | Strings                  | [🔗 Acessar](problemas/strings/1255/)                |
 | 1272   | Mensagem Oculta          | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
+| 1103   | Alarme Despertador       | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1103/)                 |
 | 1251   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
 | 1281   | Ida à Feira              | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
 
