@@ -1,4 +1,4 @@
-# 💻 Repositório de Prática - Beecrowd
+# 💻 Um problema por dia - Beecrowd
 
 Este repositório tem como objetivo principal o desenvolvimento da **prática contínua** e da **constância na programação**, por meio da resolução de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/).
 
@@ -15,7 +15,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ---
 
-## ✅ Total problemas resolvidos: **20**
+## ✅ Total problemas resolvidos: **21**
 
 ## Lista de Problemas Resolvidos
 
@@ -35,10 +35,11 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1235   | De dentro pra fora       | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
 | 1238   | Combinador               | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
 | 1239   | Atalhos Bloggo           | Strings                  | [🔗 Acessar](problemas/strings/1239/)                |
-| 1239   | Cifra de césar           | Strings                  | [🔗 Acessar](problemas/strings/1253/)                |
+| 1253   | Cifra de césar           | Strings                  | [🔗 Acessar](problemas/strings/1253/)                |
 | 1255   | Frequentrador de Letras  | Strings                  | [🔗 Acessar](problemas/strings/1255/)                |
 | 1272   | Mensagem Oculta          | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
 | 1103   | Alarme Despertador       | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1103/)                 |
+| 1171   | Frequência de Números    | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1171/)                 |
 | 1251   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
 | 1281   | Ida à Feira              | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
 
