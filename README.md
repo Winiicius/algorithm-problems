@@ -15,7 +15,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ---
 
-## ✅ Total problemas resolvidos: **21**
+## ✅ Total problemas resolvidos: **22**
 
 ## Lista de Problemas Resolvidos
 
@@ -42,6 +42,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1171   | Frequência de Números    | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1171/)                 |
 | 1251   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
 | 1281   | Ida à Feira              | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
+| 1611   | Elevador Lotado          | paradigmas               | [🔗 Acessar](problemas/paradigmas/1611/)             |
 
 ---
 
