@@ -15,7 +15,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ---
 
-## ✅ Total problemas resolvidos: **22**
+## ✅ Total problemas resolvidos: **23**
 
 ## Lista de Problemas Resolvidos
 
@@ -39,6 +39,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1255   | Frequentrador de Letras  | Strings                  | [🔗 Acessar](problemas/strings/1255/)                |
 | 1272   | Mensagem Oculta          | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
 | 1103   | Alarme Despertador       | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1103/)                 |
+| 1105   | Sub-prime       | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1105/)                 |
 | 1171   | Frequência de Números    | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1171/)                 |
 | 1251   | Diga-me a Frequência     | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
 | 1281   | Ida à Feira              | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
