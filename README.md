@@ -15,7 +15,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 
 ---
 
-## ✅ Total problemas resolvidos: **25**
+## ✅ Total problemas resolvidos: **26**
 
 ## Lista de Problemas Resolvidos
 
@@ -46,6 +46,7 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1259   | Pares e Ímpares           | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1259/) |
 | 1281   | Ida à Feira               | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
 | 1611   | Elevador Lotado           | paradigmas               | [🔗 Acessar](problemas/paradigmas/1611/)             |
+| 1310   | Lucro                     | paradigmas               | [🔗 Acessar](problemas/paradigmas/1310/)             |
 
 ---
 
