@@ -1,23 +1,24 @@
-# 💻 Um problema por dia - Beecrowd
+# 💻 Um problema por dia – Beecrowd & LeetCode
 
-Este repositório tem como objetivo principal o desenvolvimento da **prática contínua** e da **constância na programação**, por meio da resolução de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/).
+Este repositório tem como objetivo principal o desenvolvimento da **prática contínua** e da **constância em programação**, por meio da resolução de problemas de plataformas como [Beecrowd](https://www.beecrowd.com.br/), [LeetCode](https://leetcode.com/).
 
-A proposta é manter uma rotina de estudo, fortalecer a lógica de programação e aplicar boas práticas de organização, versionamento e estrutura de código.
+A proposta é manter uma rotina de estudo, fortalecer a lógica de programação, aplicar algoritmos e estruturas de dados e exercitar boas práticas de **organização**, **versionamento** e **estrutura de código**.
 
 ---
 
 ## 🗂️ Organização
 
-Os problemas estão organizados em diretórios por categoria (como `iniciantes`, `estruturas`, `strings`, etc.), e cada problema possui seu próprio subdiretório contendo:
+Os problemas estão organizados em diretórios por **plataforma** e, dentro de cada uma, por **categoria/nível** (por exemplo `beecrowd/iniciante`, `leetcode/arrays`, etc.).  
+Cada problema possui seu próprio subdiretório contendo:
 
 - O código-fonte da solução (`main.py` ou equivalente)
-- Um `.md` com a descrição do problema
+- Um arquivo `.md` com a descrição/resumo do problema
 
 ---
 
-## ✅ Total problemas resolvidos: **26**
+## ✅ Total de problemas resolvidos: **26** (e aumentando!)
 
-## Lista de Problemas Resolvidos
+## Lista de Problemas do Beecrowd Resolvidos
 
 | Número | Título                    | Categoria                | Diretório                                            |
 | ------ | ------------------------- | ------------------------ | ---------------------------------------------------- |
@@ -49,6 +50,11 @@ Os problemas estão organizados em diretórios por categoria (como `iniciantes`,
 | 1310   | Lucro                     | paradigmas               | [🔗 Acessar](problemas/paradigmas/1310/)             |
 
 ---
+
+## Lista de problemas do LeetCode Resolvidos.
+
+| Número | Título | Categoria | Diretório |
+| ------ | ------ | --------- | --------- |
 
 ## 🛠️ Tecnologias e Ferramentas
 
