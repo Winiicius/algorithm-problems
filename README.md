@@ -20,41 +20,42 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
-| Número | Título                    | Categoria                | Diretório                                            |
-| ------ | ------------------------- | ------------------------ | ---------------------------------------------------- |
-| 1001   | Extremamente Básico       | Iniciante                | [🔗 Acessar](problemas/iniciantes/1001/)             |
-| 1042   | Sort Simples              | Iniciante                | [🔗 Acessar](problemas/iniciantes/1042/)             |
-| 1046   | Tempo de jogo             | Iniciante                | [🔗 Acessar](problemas/iniciantes/1046/)             |
-| 1113   | Crescente e Decrescente   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1113/)             |
-| 1132   | Múltiplos de 13           | Iniciante                | [🔗 Acessar](problemas/iniciantes/1132/)             |
-| 1145   | Sequência Lógica 2        | Iniciante                | [🔗 Acessar](problemas/iniciantes/1145/)             |
-| 1154   | Idades                    | Iniciante                | [🔗 Acessar](problemas/iniciantes/1154/)             |
-| 1218   | Getline Three - Calcados  | Iniciante                | [🔗 Acessar](problemas/iniciantes/1218/)             |
-| 1172   | Substituição em vetor I   | Iniciante                | [🔗 Acessar](problemas/iniciantes/1172/)             |
-| 1789   | A corrida das lesmas      | Iniciante                | [🔗 Acessar](problemas/iniciantes/1789/)             |
-| 1024   | Criptografia              | strings                  | [🔗 Acessar](problemas/strings/1024/)                |
-| 1235   | De dentro pra fora        | strings                  | [🔗 Acessar](problemas/strings/1235/)                |
-| 1238   | Combinador                | Strings                  | [🔗 Acessar](problemas/strings/1238/)                |
-| 1239   | Atalhos Bloggo            | Strings                  | [🔗 Acessar](problemas/strings/1239/)                |
-| 1253   | Cifra de césar            | Strings                  | [🔗 Acessar](problemas/strings/1253/)                |
-| 1255   | Frequentrador de Letras   | Strings                  | [🔗 Acessar](problemas/strings/1255/)                |
-| 1272   | Mensagem Oculta           | strings                  | [🔗 Acessar](problemas/strings/1272/)                |
-| 1103   | Alarme Despertador        | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1103/)                 |
-| 1105   | Sub-prime                 | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1105/)                 |
-| 1171   | Frequência de Números     | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1171/)                 |
-| 1553   | Perguntas mais Frequentes | ad-hoc                   | [🔗 Acessar](problemas/ad-hoc/1553/)                 |
-| 1251   | Diga-me a Frequência      | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1251/) |
-| 1259   | Pares e Ímpares           | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1259/) |
-| 1281   | Ida à Feira               | estruturas e bibliotecas | [🔗 Acessar](problemas/estruturas-bibliotecas/1281/) |
-| 1611   | Elevador Lotado           | paradigmas               | [🔗 Acessar](problemas/paradigmas/1611/)             |
-| 1310   | Lucro                     | paradigmas               | [🔗 Acessar](problemas/paradigmas/1310/)             |
+| Número | Título                    | Categoria                | Diretório                                                     |
+| ------ | ------------------------- | ------------------------ | ------------------------------------------------------------- |
+| 1001   | Extremamente Básico       | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1001/)             |
+| 1042   | Sort Simples              | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1042/)             |
+| 1046   | Tempo de jogo             | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1046/)             |
+| 1113   | Crescente e Decrescente   | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1113/)             |
+| 1132   | Múltiplos de 13           | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1132/)             |
+| 1145   | Sequência Lógica 2        | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1145/)             |
+| 1154   | Idades                    | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1154/)             |
+| 1218   | Getline Three - Calcados  | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1218/)             |
+| 1172   | Substituição em vetor I   | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1172/)             |
+| 1789   | A corrida das lesmas      | Iniciante                | [🔗 Acessar](beecrowd/problemas/iniciantes/1789/)             |
+| 1024   | Criptografia              | strings                  | [🔗 Acessar](beecrowd/problemas/strings/1024/)                |
+| 1235   | De dentro pra fora        | strings                  | [🔗 Acessar](beecrowd/problemas/strings/1235/)                |
+| 1238   | Combinador                | Strings                  | [🔗 Acessar](beecrowd/problemas/strings/1238/)                |
+| 1239   | Atalhos Bloggo            | Strings                  | [🔗 Acessar](beecrowd/problemas/strings/1239/)                |
+| 1253   | Cifra de césar            | Strings                  | [🔗 Acessar](beecrowd/problemas/strings/1253/)                |
+| 1255   | Frequentrador de Letras   | Strings                  | [🔗 Acessar](beecrowd/problemas/strings/1255/)                |
+| 1272   | Mensagem Oculta           | strings                  | [🔗 Acessar](beecrowd/problemas/strings/1272/)                |
+| 1103   | Alarme Despertador        | ad-hoc                   | [🔗 Acessar](beecrowd/problemas/ad-hoc/1103/)                 |
+| 1105   | Sub-prime                 | ad-hoc                   | [🔗 Acessar](beecrowd/problemas/ad-hoc/1105/)                 |
+| 1171   | Frequência de Números     | ad-hoc                   | [🔗 Acessar](beecrowd/problemas/ad-hoc/1171/)                 |
+| 1553   | Perguntas mais Frequentes | ad-hoc                   | [🔗 Acessar](beecrowd/problemas/ad-hoc/1553/)                 |
+| 1251   | Diga-me a Frequência      | estruturas e bibliotecas | [🔗 Acessar](beecrowd/problemas/estruturas-bibliotecas/1251/) |
+| 1259   | Pares e Ímpares           | estruturas e bibliotecas | [🔗 Acessar](beecrowd/problemas/estruturas-bibliotecas/1259/) |
+| 1281   | Ida à Feira               | estruturas e bibliotecas | [🔗 Acessar](beecrowd/problemas/estruturas-bibliotecas/1281/) |
+| 1611   | Elevador Lotado           | paradigmas               | [🔗 Acessar](beecrowd/problemas/paradigmas/1611/)             |
+| 1310   | Lucro                     | paradigmas               | [🔗 Acessar](beecrowd/problemas/paradigmas/1310/)             |
 
 ---
 
 ## Lista de problemas do LeetCode Resolvidos.
 
-| Número | Título | Categoria | Diretório |
-| ------ | ------ | --------- | --------- |
+| Número | Título            | Categoria | Diretório                                   |
+| ------ | ----------------- | --------- | ------------------------------------------- |
+| 6      | ZigZag Conversion | Strings   | [🔗 Acessar](leetcode/problemas/strings/6/) |
 
 ## 🛠️ Tecnologias e Ferramentas
 
