@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **29** (e aumentando!)
+## ✅ Total de problemas resolvidos: **30** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -57,6 +57,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | ------ | ------------------------------- | --------- | ---------------------------------- |
 | 6      | ZigZag Conversion               | Strings   | [🔗 Acessar](leetcode/strings/6/)  |
 | 20     | valid Parentheses               | Strings   | [🔗 Acessar](leetcode/strings/20/) |
+| 49     | Group Anagrams                  | Strings   | [🔗 Acessar](leetcode/strings/49/) |
 | 121    | Best time to buy and sell stock | Arrays    | [🔗 Acessar](leetcode/arrays/121/) |
 
 ## 🛠️ Tecnologias e Ferramentas
