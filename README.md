@@ -53,14 +53,14 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ## Lista de problemas do LeetCode Resolvidos.
 
-| Número | Título                                         | Categoria | Diretório                          |
-| ------ | ---------------------------------------------- | --------- | ---------------------------------- |
-| 3      | Longest Substring Without Repeating Characters | Strings   | [🔗 Acessar](leetcode/strings/3/)  |
-| 6      | ZigZag Conversion                              | Strings   | [🔗 Acessar](leetcode/strings/6/)  |
-| 20     | valid Parentheses                              | Strings   | [🔗 Acessar](leetcode/strings/20/) |
-| 49     | Group Anagrams                                 | Strings   | [🔗 Acessar](leetcode/strings/49/) |
-| 56     | Merge Intervals                                | Arrays    | [🔗 Acessar](leetcode/arrays/56/)  |
-| 121    | Best time to buy and sell stock                | Arrays    | [🔗 Acessar](leetcode/arrays/121/) |
+| Número | Título                                         | Categoria | Dificuldade | Diretório                          |
+| ------ | ---------------------------------------------- | --------- | ----------- | ---------------------------------- |
+| 3      | Longest Substring Without Repeating Characters | Strings   | Médio       | [🔗 Acessar](leetcode/strings/3/)  |
+| 6      | ZigZag Conversion                              | Strings   | Médio       | [🔗 Acessar](leetcode/strings/6/)  |
+| 20     | valid Parentheses                              | Strings   | Fácil       | [🔗 Acessar](leetcode/strings/20/) |
+| 49     | Group Anagrams                                 | Strings   | Médio       | [🔗 Acessar](leetcode/strings/49/) |
+| 56     | Merge Intervals                                | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/56/)  |
+| 121    | Best time to buy and sell stock                | Arrays    | Fácil       | [🔗 Acessar](leetcode/arrays/121/) |
 
 ## 🛠️ Tecnologias e Ferramentas
 
