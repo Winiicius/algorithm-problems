@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **33** (e aumentando!)
+## ✅ Total de problemas resolvidos: **34** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -63,6 +63,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 56     | Container With Most Water                      | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/11/)  |
 | 56     | Merge Intervals                                | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/56/)  |
 | 121    | Best time to buy and sell stock                | Arrays    | Fácil       | [🔗 Acessar](leetcode/arrays/121/) |
+| 167    | Two Sum II - Input Array Is Sorted             | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/167/) |
 
 ## 🛠️ Tecnologias e Ferramentas
 
