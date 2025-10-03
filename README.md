@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **34** (e aumentando!)
+## ✅ Total de problemas resolvidos: **35** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -59,8 +59,9 @@ Cada problema possui seu próprio subdiretório contendo:
 | 6      | ZigZag Conversion                              | Strings   | Médio       | [🔗 Acessar](leetcode/strings/6/)  |
 | 20     | valid Parentheses                              | Strings   | Fácil       | [🔗 Acessar](leetcode/strings/20/) |
 | 49     | Group Anagrams                                 | Strings   | Médio       | [🔗 Acessar](leetcode/strings/49/) |
+| 11     | Container With Most Water                      | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/11/)  |
 | 15     | 3Sum                                           | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/15/)  |
-| 56     | Container With Most Water                      | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/11/)  |
+| 42     | Trapping Rain Water                            | Arrays    | Difícil     | [🔗 Acessar](leetcode/arrays/42/)  |
 | 56     | Merge Intervals                                | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/56/)  |
 | 121    | Best time to buy and sell stock                | Arrays    | Fácil       | [🔗 Acessar](leetcode/arrays/121/) |
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays    | Médio       | [🔗 Acessar](leetcode/arrays/167/) |
