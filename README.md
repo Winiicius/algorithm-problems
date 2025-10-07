@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **38** (e aumentando!)
+## ✅ Total de problemas resolvidos: **39** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -67,6 +67,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
 | 283    | Move Zeroes                                    | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/283/)      |
 | 19     | Remove Nth Node From End of List               | Linked List | Médio       | [🔗 Acessar](leetcode/linked_list/19/)  |
+| 141    | Linked List Cycle                              | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/141/) |
 | 206    | Reverse Linked List                            | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/206/) |
 
 ## 🛠️ Tecnologias e Ferramentas
