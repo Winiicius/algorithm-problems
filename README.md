@@ -81,6 +81,6 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ## 📌 Observações
 
-Este repositório é pessoal e tem fins didáticos. Todo o conteúdo aqui visa a prática, aprendizado e disciplina de estudo.
+Este repositório é pessoal e tem fins didáticos. Todo o conteúdo aqui visa a prática, aprendizado e disciplina de estudo!
 
 ---
