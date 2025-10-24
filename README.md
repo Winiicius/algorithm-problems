@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **41** (e aumentando!)
+## ✅ Total de problemas resolvidos: **42** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -66,6 +66,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 121    | Best time to buy and sell stock                | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/121/)      |
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
 | 169    | Majority Element                               | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/169/)      |
+| 238    | Product of Array Except Self                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/238/)      |
 | 283    | Move Zeroes                                    | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/283/)      |
 | 19     | Remove Nth Node From End of List               | Linked List | Médio       | [🔗 Acessar](leetcode/linked_list/19/)  |
 | 21     | Merge Two Sorted Lists                         | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/21/)  |
