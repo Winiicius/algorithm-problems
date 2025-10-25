@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **43** (e aumentando!)
+## ✅ Total de problemas resolvidos: **44** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -63,6 +63,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 15     | 3Sum                                           | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/15/)       |
 | 42     | Trapping Rain Water                            | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/42/)       |
 | 53     | Maximum Subarray                               | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/53/)       |
+| 54     | Spiral Matrix                                  | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/54/)       |
 | 56     | Merge Intervals                                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/56/)       |
 | 121    | Best time to buy and sell stock                | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/121/)      |
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
