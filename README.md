@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **44** (e aumentando!)
+## ✅ Total de problemas resolvidos: **45** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -62,6 +62,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 11     | Container With Most Water                      | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/11/)       |
 | 15     | 3Sum                                           | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/15/)       |
 | 42     | Trapping Rain Water                            | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/42/)       |
+| 48     | Rotate Image                                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/48/)       |
 | 53     | Maximum Subarray                               | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/53/)       |
 | 54     | Spiral Matrix                                  | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/54/)       |
 | 56     | Merge Intervals                                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/56/)       |
