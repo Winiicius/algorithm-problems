@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **48** (e aumentando!)
+## ✅ Total de problemas resolvidos: **49** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -69,6 +69,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 54     | Spiral Matrix                                  | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/54/)       |
 | 56     | Merge Intervals                                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/56/)       |
 | 121    | Best time to buy and sell stock                | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/121/)      |
+| 153    | Find Minimum in Rotated Sorted Array           | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/153/)      |
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
 | 169    | Majority Element                               | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/169/)      |
 | 238    | Product of Array Except Self                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/238/)      |
