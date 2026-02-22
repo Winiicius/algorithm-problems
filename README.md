@@ -80,6 +80,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 21     | Merge Two Sorted Lists                         | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/21/)  |
 | 141    | Linked List Cycle                              | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/141/) |
 | 206    | Reverse Linked List                            | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/206/) |
+| 739    | Daily Temperatures                             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/739/)      |
 
 ## 🛠️ Tecnologias e Ferramentas
 
