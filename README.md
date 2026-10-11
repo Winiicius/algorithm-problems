@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **55** (e aumentando!)
+## ✅ Total de problemas resolvidos: **56** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -76,6 +76,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
 | 169    | Majority Element                               | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/169/)      |
 | 200    | Number of Islands                              | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/200/)      |
+| 217    | Contains Duplicate                             | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/217/)      |
 | 238    | Kth Largest Element in an Array                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/215/)      |
 | 238    | Product of Array Except Self                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/238/)      |
 | 283    | Move Zeroes                                    | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/283/)      |
