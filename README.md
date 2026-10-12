@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **56** (e aumentando!)
+## ✅ Total de problemas resolvidos: **57** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -64,6 +64,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 15     | 3Sum                                           | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/15/)       |
 | 33     | Search in Rotated Sorted Array                 | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/33/)       |
 | 35     | Search Insert Position                         | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/35/)       |
+| 36     | Valid Sudoku                                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/36/)       |
 | 42     | Trapping Rain Water                            | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/42/)       |
 | 48     | Rotate Image                                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/48/)       |
 | 53     | Maximum Subarray                               | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/53/)       |
