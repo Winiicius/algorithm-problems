@@ -71,6 +71,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 56     | Merge Intervals                                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/56/)       |
 | 84     | Largest Rectangle in Histogram                 | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/84/)       |
 | 121    | Best time to buy and sell stock                | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/121/)      |
+| 128    | Longest Consecutive Sequence                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/128/)      |
 | 153    | Find Minimum in Rotated Sorted Array           | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/153/)      |
 | 154    | Find Minimum in Rotated Sorted Array II        | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/154/)      |
 | 167    | Two Sum II - Input Array Is Sorted             | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/167/)      |
