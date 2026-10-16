@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **59** (e aumentando!)
+## ✅ Total de problemas resolvidos: **60** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -85,6 +85,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 287    | Find The Duplicate Number                      | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/287/)      |
 | 347    | Top K Frequency Elements                       | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/347/)      |
 | 383    | Ransom Note                                    | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/383/)      |
+| 383    | Contiguous Array                               | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/525/)      |
 | 560    | SubArray Sum Equals K                          | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/560/)      |
 | 19     | Remove Nth Node From End of List               | Linked List | Médio       | [🔗 Acessar](leetcode/linked_list/19/)  |
 | 21     | Merge Two Sorted Lists                         | Linked List | Fácil       | [🔗 Acessar](leetcode/linked_list/21/)  |
