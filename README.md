@@ -16,7 +16,7 @@ Cada problema possui seu próprio subdiretório contendo:
 
 ---
 
-## ✅ Total de problemas resolvidos: **60** (e aumentando!)
+## ✅ Total de problemas resolvidos: **61** (e aumentando!)
 
 ## Lista de Problemas do Beecrowd Resolvidos
 
@@ -70,6 +70,7 @@ Cada problema possui seu próprio subdiretório contendo:
 | 53     | Maximum Subarray                               | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/53/)       |
 | 54     | Spiral Matrix                                  | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/54/)       |
 | 56     | Merge Intervals                                | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/56/)       |
+| 75     | Sort Colors                                    | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/75/)       |
 | 84     | Largest Rectangle in Histogram                 | Arrays      | Difícil     | [🔗 Acessar](leetcode/arrays/84/)       |
 | 121    | Best time to buy and sell stock                | Arrays      | Fácil       | [🔗 Acessar](leetcode/arrays/121/)      |
 | 128    | Longest Consecutive Sequence                   | Arrays      | Médio       | [🔗 Acessar](leetcode/arrays/128/)      |
